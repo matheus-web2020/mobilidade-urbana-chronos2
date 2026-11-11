@@ -1,0 +1,11 @@
+pandas==2.3.3
+numpy==2.5.4
+requests==2.34.2
+matplotlib==3.11.2
+pyarrow==26.0.0
+scipy==1.18.1
+statsforecast==2.1.1
+lightgbm==4.7.0
+scikit-learn==1.9.1
+torch==2.14.1
+chronos-forecasting==2.3.2

@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+pipeline_mobilidade/dados/entrada/*.csv
+!pipeline_mobilidade/dados/entrada/dicionario-de-dados.csv
+pipeline_mobilidade/dados/tratado/series_horarias.*
+
+pipeline_mobilidade/resultados/reproducao/
+pipeline_mobilidade/resultados/v2/parciais/

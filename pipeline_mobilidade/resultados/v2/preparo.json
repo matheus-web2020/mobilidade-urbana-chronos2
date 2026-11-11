@@ -1,0 +1,34 @@
+{
+  "n_combinacoes_corredor_sentido": 272,
+  "registros_brutos": 313797,
+  "series_limiar_0.25": 74,
+  "series_limiar_0.5": 43,
+  "series_limiar_0.75": 20,
+  "qualidade": {
+    "n_linhas": 313797,
+    "timestamps_invalidos": 0,
+    "indicador_invalido_ou_ausente": 0,
+    "indicador_negativo": 0,
+    "duplicados_serie_timestamp": 52596,
+    "n_series": 272,
+    "periodo": [
+      "2022-01-01 00:00:00",
+      "2023-12-29 19:30:00"
+    ],
+    "estatisticas_indicador": {
+      "count": 313797.0,
+      "mean": 1396.681829335526,
+      "std": 1311.8746610919063,
+      "min": 55.0,
+      "25%": 608.0,
+      "50%": 980.0,
+      "75%": 1700.0,
+      "max": 21180.0
+    },
+    "linhas_apos_descarte": 313797,
+    "pct_horas_ausentes": 0.0,
+    "ausente_como_zero": true,
+    "pct_horas_sem_lentidao": 0.9650051115340604
+  },
+  "tempo_s": 5.4
+}

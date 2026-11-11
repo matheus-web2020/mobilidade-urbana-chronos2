@@ -1,0 +1,7 @@
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+psycopg[binary]==3.3.8
+httpx==0.28.1
+pandas>=2.0
+pyarrow>=14
+playwright==1.64.1
